@@ -9,7 +9,7 @@ You can find the complete CAD model without CAD-Software here:
 - [CPAP Muffler for all other Printers](https://)
 
 
-![<img src="" width="50%">](https://youtu.be/0h4zGvPl5GQ "Mammoth-3D Voron 2.4 R2 CPAP Muffler")
+[<img src="" width="50%">](https://youtu.be/0h4zGvPl5GQ "Mammoth-3D Voron 2.4 R2 CPAP Muffler")
 
 
 All Mammoth-3D project are licensed as
