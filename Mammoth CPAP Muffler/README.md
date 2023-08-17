@@ -6,7 +6,7 @@ All the tests in the LAB showed maximum flow of 100% and a noise reduction of 13
 
 You can find the complete CAD model without CAD-Software here: 
 - [CPAP Muffler for Voron Printers](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/tree/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/CAD)  
-- [CPAP Muffler for all other Printers](https://)
+- [CPAP Muffler for all other Printers](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/tree/main/Mammoth%20CPAP%20Muffler/Customisable%20CPAP%20Muffler/CAD)
 
 Click on the CPAP Muffler to watch the YouTube Video.
 [<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/images/Mammoth_CPAP_Muffler.png" width="75%">](https://youtu.be/0h4zGvPl5GQ "Mammoth-3D Voron 2.4 R2 CPAP Muffler")
