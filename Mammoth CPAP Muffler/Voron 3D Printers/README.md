@@ -3,7 +3,7 @@
 
 The Mammoth-3D Muffler is a compact muffler designed for one thing. High CPAP flow and noise reduction.
 
-[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/images/Mammoth_CPAP_Muffler.png" width="100%">]
+<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/images/Mammoth_Voron_Muffler_R2.png" width="100%">
 
 
 # BOM
