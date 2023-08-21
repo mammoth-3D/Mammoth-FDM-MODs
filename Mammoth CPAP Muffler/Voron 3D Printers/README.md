@@ -20,7 +20,17 @@ The Mammoth-3D Muffler is a compact muffler designed for one thing. High CPAP fl
 - 3 x M2.5x8mm Self-tapping Screw
 
 # How to Print
-WIP
+Before you start printing, fist select the Grill you are going to use.
+We offer 6 options.
+- CPAP only. [Mammoth Grill CPAP](https://)
+- CPAP and Filament inlet. [Mammoth Grill CPAP Filament](https://)
+- CPAP, Filament inlet and Cable routing to the top back. [Mammoth Grill CPAP Filament Cable](https://)
+- CPAP and Cable routing to the top back. [Mammoth Grill CPAP Cable](https://)
+- CPAP, Cable routing to the top back and Water Cooling. [Mammoth Grill CPAP Cable Water Cooling](https://)
+- CPAP, Cable routing to the top back, Water Cooling and Filament inlet. [Mammoth Grill CPAP Cable Water Cooling Filament](https://)
+
+
+
 
 
 All Mammoth-3D project are licensed as
