@@ -34,6 +34,10 @@ The Mammoth CPAP Grill (6 Options) is the only part that needs to be printed usi
 <img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/images/How%20to%20print%20Muffler%20Grill.png" width="75%">
 
 
+All the other Muffler parts can be printed without support.
+
+<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/images/How%20to%20print%20main%20Muffler-Body.png" width="75%">
+
 
 
 
