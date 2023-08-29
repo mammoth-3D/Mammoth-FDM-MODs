@@ -24,10 +24,10 @@ Before you start printing, fist select the Grill you are going to use.
 We offer 6 options.
 - CPAP only, Toolhead cables stay in drag chain. [Mammoth Grill CPAP](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP_Toolhead_cables_DragChain.stl)
 - CPAP and Filament inlet, Toolhead cables stay in drag chain. [Mammoth Grill CPAP Filament](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP_Filament_Toolhead_cables_DragChain.stl)
-- CPAP, Filament inlet and Cable routing to the top back. [Mammoth Grill CPAP Filament Cable](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP_Falament.stl)
+- CPAP, Filament inlet and Cable routing to the top back. [Mammoth Grill CPAP Filament Cable](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP_Filament.stl)
 - CPAP and Cable routing to the top back. [Mammoth Grill CPAP Cable](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP.stl)
 - CPAP, Cable routing to the top back and Water Cooling. [Mammoth Grill CPAP Cable Water Cooling](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP_Water_Cooling.stl)
-- CPAP, Cable routing to the top back, Water Cooling and Filament inlet. [Mammoth Grill CPAP Cable Water Cooling Filament](https://)
+- CPAP, Cable routing to the top back, Water Cooling and Filament inlet. [Mammoth Grill CPAP Cable Water Cooling Filament](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP_Water_Cooling_Filament.stl)
 
 
 
