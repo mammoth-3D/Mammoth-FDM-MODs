@@ -29,6 +29,10 @@ We offer 6 options.
 - CPAP, Cable routing to the top back and Water Cooling. [Mammoth Grill CPAP Cable Water Cooling](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP_Water_Cooling.stl)
 - CPAP, Cable routing to the top back, Water Cooling and Filament inlet. [Mammoth Grill CPAP Cable Water Cooling Filament](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/STL/Mammoth_Grill_CPAP_Water_Cooling_Filament.stl)
 
+The Mammoth CPAP Grill (6 Options) is the only part that needs to be printed using supports.
+
+<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers/images/How%20to%20print%20Muffler%20Grill.png" width="75%">
+
 
 
 
