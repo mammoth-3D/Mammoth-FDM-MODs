@@ -12,11 +12,11 @@ Credit:
 Credit to Simon Vez from VZBOT. He made the Fly Super 8 1.3 Board Mount plus 5160HV driver mounts. We took it and mixed it up to make the Mammoth Version with easy access.
 
 
-[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20Board%20Mounts%20-%20MCU/Mammoth_Fly_Super8_and_4x5160HV/images/Mammoth_Fly_Super8_and_4x5160HV_1.png" width="75%">]("Mammoth-3D MCU Board Mounts with easy access")
+[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20Board%20Mounts%20-%20MCU/Mammoth_Fly_Super8_and_4x5160HV/images/Mammoth_Fly_Super8_and_4x5160HV_1.png" width="95%">]
 
-[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20Board%20Mounts%20-%20MCU/Mammoth_Fly_Super8_and_4x5160HV/images/Mammoth_Fly_Super8_and_4x5160HV_3.png" width="75%">]("Mammoth-3D MCU Board Mounts with easy access")
+[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20Board%20Mounts%20-%20MCU/Mammoth_Fly_Super8_and_4x5160HV/images/Mammoth_Fly_Super8_and_4x5160HV_3.png" width="95%">]
 
-[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20Board%20Mounts%20-%20MCU/Mammoth_Fly_Super8_and_4x5160HV/images/Mammoth_Fly_Super8_and_4x5160HV_5.png" width="75%">]("Mammoth-3D MCU Board Mounts with easy access")
+[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20Board%20Mounts%20-%20MCU/Mammoth_Fly_Super8_and_4x5160HV/images/Mammoth_Fly_Super8_and_4x5160HV_5.png" width="95%">]
 
 
 All Mammoth-3D project are licensed as
