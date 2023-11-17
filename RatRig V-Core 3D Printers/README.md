@@ -4,7 +4,7 @@
 Mods for Rat Rig V-Core 3D Printer.
 
 
-![Mammoth-3D V-Core Toolhead](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth_Toolhead_V5.png)
+![Mammoth-3D V-Core Toolhead](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/RatRig%20V-Core%203D%20Printers/Images/Mammoth%20V-Core%20Toolhead.png)
 
 
 All Mammoth-3D project are licensed as
