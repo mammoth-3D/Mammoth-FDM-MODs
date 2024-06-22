@@ -3,7 +3,7 @@
 
 [![Discord Invite](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/images/discord.png)](https://discord.gg/BYsPd88xSC)
 [![printables.com](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/images/printables.png)](https://www.printables.com/@Mammoth3D_2076590/models)
-[![Buy Me a Coffee at ko-fi.com](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/mammoth3d)
+[![Buy Me a Coffee at ko-fi.com](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/images/ko-fi.png)](https://ko-fi.com/mammoth3d)
 
 ## Mods for FDM 3D Printer based on the CoreXY frame.
 
