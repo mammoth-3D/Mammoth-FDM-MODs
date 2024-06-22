@@ -6,8 +6,8 @@
 
 ![Mammoth-3D Voron 2.4 R2 Toolhead](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth_Toolhead_V5.png)
 
-## Voron Printers
-| MOD Name | Version | Description | Link | Image | Description |
+## Voron
+| MOD Name | Ver. | Printer(s) | Link | Image | Description |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | <p><img src="images/u_pic_1_1.xpng" width="100"></p> | | |
 
