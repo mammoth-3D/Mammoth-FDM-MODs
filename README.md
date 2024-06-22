@@ -1,4 +1,4 @@
-# Mammoth-3D  <a href='https://ko-fi.com/mammoth3d' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+# Mammoth-3D  <a href='https://ko-fi.com/mammoth3d' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><a href='https://discord.gg/BYsPd88xSC' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://discord.com/api/guilds/1240273232247132233/widget.png?style=banner2' border='0' alt='Discord Invite' /></a> 
 [![Discord Invite](https://discord.com/api/guilds/1240273232247132233/widget.png?style=banner2)](https://discord.gg/BYsPd88xSC)
 [![printables.com](https://github.com/Mammoth-3D/How-Your-Support-Helps-Mammoth-3D/blob/main/Mammoth-3DatPrintables.png)](https://www.printables.com/@Mammoth3D_2076590/models)
 [![Buy Me a Coffee at ko-fi.com](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/mammoth3d)
