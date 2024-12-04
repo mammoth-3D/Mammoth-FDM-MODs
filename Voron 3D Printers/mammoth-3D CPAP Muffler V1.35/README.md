@@ -5,7 +5,7 @@ The mammoth-3D Muffler is a compact muffler designed for one thing. High CPAP fl
 All the tests in the LAB showed maximum flow of 100% and a noise reduction of 13dB. Your 3D Printer Case Fans will be noisier then CPAP. :-)
 
 Click on the CPAP Muffler to watch the YouTube Video.
-[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/images/Mammoth_CPAP_Muffler.png" width="75%">](https://youtu.be/0h4zGvPl5GQ "Mammoth-3D Voron 2.4 R2 CPAP Muffler")
+[<img src="https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth%20CPAP%20Muffler/images/Mammoth_CPAP_Muffler.png" width="75%">](https://youtu.be/QH8xxXMkUgM?si=C-W7qU8ANIsYIjON "Mammoth-3D Voron 2.4 R2 CPAP Muffler")
 
 <img src="https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35/images/Mammoth_Voron_Muffler_R2.png" width="100%">
 
