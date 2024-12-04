@@ -6,9 +6,6 @@
 
 ![Mammoth-3D Voron 2.4 R2 Toolhead](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/Mammoth_Toolhead_V5.png)
 
-![Voron](https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/Future%20Development%20for%20Voron%20Printers.jpg)
-
-
 ### All Mammoth-3D project are licensed as
 ![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
 
