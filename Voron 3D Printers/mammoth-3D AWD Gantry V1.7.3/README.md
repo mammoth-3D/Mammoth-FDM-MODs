@@ -1,8 +1,8 @@
 ## <a href='https://ko-fi.com/mammoth3d' target='_blank'><img height='46' style='border:0px;height:56px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-# The Voron 2.4 AWD Gantry with VZBOT Toolhead by mammoth-3D ![mammoth-3D Voron 2.4 R2 AWD Gantry V1.7.3](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/mammoth-3D_AWD_Gantry_1.7.3.png)
+The Voron 2.4 AWD Gantry with VZBOT Toolhead by mammoth-3D ![mammoth-3D Voron 2.4 R2 AWD Gantry V1.7.3](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/mammoth-3D_AWD_Gantry_1.7.3.png)
 
-# You can find all the detailed documentation, including guides, instructions, and additional resources, at the following link: ![mammoth-3D Documentation](https://docs.mammoth-3d.ch). This serves as a comprehensive reference to help you better understand and utilize the materials.
+# You can find all the detailed documentation, including guides, instructions, and additional resources, at the following link: [<img src="[<img src="https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/Voron%203D%20Printers/mammoth-3D%20CPAP%20Muffler%20V1.35/images/youtube.png" width="75%">](https://youtu.be/QH8xxXMkUgM?si=C-W7qU8ANIsYIjON "Mammoth-3D Voron 2.4 R2 CPAP Muffler")" width="75%">](https://docs.mammoth-3d.ch "mammoth-3D Documentation"). This serves as a comprehensive reference to help you better understand and utilize the materials.
 
 For further support or to connect with the community, feel free to join us on Discord: [Insert Discord Link Here]. We’re here to help and would love to hear from you!
 
