@@ -6,9 +6,9 @@ You can find all the detailed documentation, including guides, instructions, and
 
 For further support or to connect with the community, feel free to join us on Discord: [<img src="https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/images/discord.png" width="15%">](https://discord.gg/3JxrSnGgsF "mammoth-3D Discord") We’re here to help and would love to hear from you!
 
-## The Voron 2.4 AWD Gantry introduces a groundbreaking design that sets it apart from other all-wheel-drive (AWD) systems available in the market. Here’s what makes it unique. ##
+# The Voron 2.4 AWD Gantry introduces a groundbreaking design that sets it apart from other all-wheel-drive (AWD) systems available in the market. Here’s what makes it unique. #
 
-## 1. Shorter Belt Paths for Greater Efficiency: ##
+# 1. Shorter Belt Paths for Greater Efficiency: #
 
 - Unlike other systems, the Mammoth-3D design uses significantly shorter belts. This reduces belt stretch and increases precision, resulting in smoother movement, better print quality, and enhanced reliability.
 
