@@ -1,6 +1,6 @@
-## <a href='https://ko-fi.com/mammoth3d' target='_blank'><img height='46' style='border:0px;height:56px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+## CoolRocker by mammoth-3D
 
-CoolRocker by mammoth-3D ![mammoth-3D CoolRocker](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/blob/main/mammoth-3D_AWD_Gantry_1.7.3.png)
+CoolRocker by mammoth-3D ![mammoth-3D CoolRocker](https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/Voron%203D%20Printers/mammoth-3D%20CoolRocker%20/images/CoolRocker_1.png)
 
 The RockNRoll allow you to roll the printer onto its back for easier access to the electronics compartment. RockNLol originally designed them, and mammoth-3D remixed the design to accommodate a 240x120mm radiator for water cooling your 3D printer components.
 
