@@ -1,6 +1,6 @@
 ## M404 Extruder by mammoth-3D
 
-M404 Extruder by mammoth-3D ![mammoth-3D M404](https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/Voron%203D%20Printers/mammoth-3D%20M404/images/M404_1.png)
+![mammoth-3D M404](https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/Voron%203D%20Printers/mammoth-3D%20M404/images/M404_1.png)
 
 The Advantages of a Dual-Extruder Setup with a Secondary Pulling Extruder
 
