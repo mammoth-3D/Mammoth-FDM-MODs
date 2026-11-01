@@ -28,7 +28,7 @@ Please inspect all manufactured parts and verify mechanical clearances before op
 ## Credits
 Thank you to everyone supporting the mammoth-3D project and contributing to the community!
 
-![mammoth-3D Aluminium CNC Gantry](https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/Elegoo%20Giga/CNC%20behemoth%20Toolhead/images/CNC%20-%20behemoth%20Toolhead%201.png)
+![mammoth-3D Aluminium CNC Gantry](https://github.com/mammoth-3D/Mammoth-FDM-MODs/blob/main/Voron%203D%20Printers/mammoth-3D%20Full%20CNC%20Set%20V2%20/image/mammoth-3D%20CNC%20Gantry.png)
 
 
 ### All mammoth-3D / behemoth projects are licensed as
