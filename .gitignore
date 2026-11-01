@@ -1,1 +1,2 @@
-*.txt
+# macOS Finder files
+.DS_Store
